@@ -1079,6 +1079,7 @@ fieldset {
     #home,
     .disply-table {
         height: 100vh;
+	    overflow:hidden;
     }
     .about-border {
         width: 265px;
