@@ -464,6 +464,11 @@ a.active {
     animation: moveUpDown_1 2s ease-in-out infinite alternate;
 }
 
+.brand_name{
+    font-family:serif;
+    color: palevioletred;
+    font-weight: bolder;}
+
 @keyframes moveUpDown_1 {
     0% {
         transform: translateY(0);
