@@ -739,6 +739,9 @@ a.active {
 }
 /* projects section
 ==================================================*/
+.logo_pr{
+    font-weight: bold;
+}
 
 
 #projects {
